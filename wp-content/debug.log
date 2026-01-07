@@ -1,0 +1,183 @@
+[05-Jan-2026 08:15:39 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\formatting.php on line 6305
+[05-Jan-2026 08:26:08 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wpdb.php on line 15
+[05-Jan-2026 08:32:12 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\block-bindings\post-data.php on line 98
+[05-Jan-2026 08:39:01 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-theme.php on line 1486
+[05-Jan-2026 09:14:12 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-admin\includes\media.php on line 3885
+[05-Jan-2026 09:43:21 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6910
+[05-Jan-2026 11:04:05 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-admin\includes\dashboard.php on line 2134
+[05-Jan-2026 11:17:37 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-admin\includes\class-wp-privacy-requests-table.php on line 587
+[05-Jan-2026 11:23:11 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6131
+[05-Jan-2026 11:59:32 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wpdb.php on line 2424
+[05-Jan-2026 12:13:49 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-embed.php on line 537
+[05-Jan-2026 12:16:39 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6910
+[05-Jan-2026 12:33:55 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wpdb.php on line 2357
+[05-Jan-2026 12:37:37 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\load.php on line 1270
+[05-Jan-2026 13:14:08 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\link-template.php on line 4905
+[05-Jan-2026 13:17:15 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-user-request.php on line 122
+[05-Jan-2026 13:23:26 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\l10n.php on line 2022
+[05-Jan-2026 13:29:23 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\widgets\class-wp-widget-custom-html.php on line 341
+[05-Jan-2026 13:31:22 UTC] Automatic updates starting...
+[05-Jan-2026 13:31:28 UTC] Automatic updates complete.
+[05-Jan-2026 14:48:55 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\blocks\comment-date.php on line 64
+[05-Jan-2026 14:49:09 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\blocks\post-author.php on line 81
+[05-Jan-2026 14:50:14 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 14:50:45 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>twentytwentyfive</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6131
+[05-Jan-2026 14:51:13 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\error-protection.php on line 48
+[05-Jan-2026 15:00:32 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-theme-json.php on line 4632
+[05-Jan-2026 15:02:22 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 15:02:35 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 15:04:11 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 15:05:07 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 15:07:07 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\xampp\htdocs\coalitiontest\wp-content\themes\twentytwentyfive\functions.php on line 191
+[05-Jan-2026 15:22:02 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\Requests\src\Iri.php on line 72
+[05-Jan-2026 15:22:02 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\Requests\src\Iri.php on line 72
+[05-Jan-2026 15:22:38 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-block-parser-block.php on line 91
+[05-Jan-2026 15:24:02 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-walker.php on line 457
+[05-Jan-2026 15:29:33 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-matchesmapregex.php on line 91
+[05-Jan-2026 15:30:34 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\html-api\class-wp-html-processor-state.php on line 455
+[05-Jan-2026 15:31:29 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\pluggable.php on line 1565
+[05-Jan-2026 16:02:19 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-ajax-response.php on line 166
+[05-Jan-2026 16:08:09 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\revision.php on line 1126
+[05-Jan-2026 16:39:16 UTC] +254768941873
+[06-Jan-2026 12:04:26 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-user-query.php on line 1236
+[06-Jan-2026 12:06:47 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\html-api\html5-named-character-references.php on line 21
+[06-Jan-2026 12:09:14 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\sitemaps\providers\class-wp-sitemaps-users.php on line 165
+[06-Jan-2026 12:11:42 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\blocks\template-part.php on line 303
+[06-Jan-2026 12:15:01 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\abilities-api\class-wp-ability-category.php on line 217
+[06-Jan-2026 12:18:49 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\rest-api\endpoints\class-wp-rest-comments-controller.php on line 2058
+[06-Jan-2026 12:33:08 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\widgets\class-wp-widget-categories.php on line 223
+[06-Jan-2026 12:33:34 UTC] +254768941873
+[06-Jan-2026 12:33:49 UTC] +254768941873
+[06-Jan-2026 12:34:14 UTC] Automatic updates starting...
+[06-Jan-2026 12:34:20 UTC] Automatic updates complete.
+[06-Jan-2026 18:35:24 UTC] +254768941873
+[06-Jan-2026 18:35:52 UTC] +254768941873
+[06-Jan-2026 18:36:01 UTC] Automatic updates starting...
+[06-Jan-2026 18:36:05 UTC] Automatic updates complete.
+[06-Jan-2026 19:28:59 UTC] +254768941873
+[06-Jan-2026 19:29:03 UTC] +254768941873
+[06-Jan-2026 19:29:04 UTC] +254768941873
+[06-Jan-2026 19:29:17 UTC] +254768941873
+[06-Jan-2026 19:29:18 UTC] +254768941873
+[06-Jan-2026 19:29:31 UTC] +254768941873
+[06-Jan-2026 19:29:33 UTC] +254768941873
+[06-Jan-2026 19:29:41 UTC] +254768941873
+[06-Jan-2026 19:30:42 UTC] +254768941873
+[06-Jan-2026 19:31:42 UTC] +254768941873
+[06-Jan-2026 19:32:42 UTC] +254768941873
+[06-Jan-2026 19:35:01 UTC] +254768941873
+[06-Jan-2026 19:37:08 UTC] +254768941873
+[06-Jan-2026 19:38:54 UTC] +254768941873
+[06-Jan-2026 19:41:48 UTC] +254768941873
+[06-Jan-2026 19:43:35 UTC] +254768941873
+[06-Jan-2026 19:44:04 UTC] +254768941873
+[06-Jan-2026 19:44:07 UTC] +254768941873
+[06-Jan-2026 19:44:08 UTC] +254768941873
+[06-Jan-2026 19:44:19 UTC] +254768941873
+[06-Jan-2026 19:45:10 UTC] +254768941873
+[06-Jan-2026 19:45:15 UTC] +254768941873
+[07-Jan-2026 06:55:55 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 9
+[07-Jan-2026 06:59:17 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\revision.php on line 1126
+[07-Jan-2026 07:01:23 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\block-bindings\pattern-overrides.php on line 47
+[07-Jan-2026 07:03:40 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\widgets\class-wp-widget-calendar.php on line 106
+[07-Jan-2026 07:09:18 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wpdb.php on line 2357
+[07-Jan-2026 07:10:36 UTC] +254768941873
+[07-Jan-2026 07:10:37 UTC] +254768941873
+[07-Jan-2026 07:11:31 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6131
+[07-Jan-2026 07:11:35 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-admin\includes\admin.php on line 10
+[07-Jan-2026 07:11:45 UTC] +254768941873
+[07-Jan-2026 08:06:55 UTC] +254768941873
+[07-Jan-2026 08:07:03 UTC] +254768941873
+[07-Jan-2026 09:13:10 UTC] +254768941873
+[07-Jan-2026 09:13:25 UTC] +254768941873
+[07-Jan-2026 09:21:51 UTC] +254768941873
+[07-Jan-2026 09:21:58 UTC] +254768941873
+[07-Jan-2026 09:25:53 UTC] +254768941873
+[07-Jan-2026 09:34:15 UTC] +254768941873
+[07-Jan-2026 09:34:52 UTC] +254768941873
+[07-Jan-2026 09:35:02 UTC] +254768941873
+[07-Jan-2026 09:35:05 UTC] +254768941873
+[07-Jan-2026 09:35:38 UTC] +254768941873
+[07-Jan-2026 09:35:41 UTC] +254768941873
+[07-Jan-2026 09:36:25 UTC] +254768941873
+[07-Jan-2026 09:36:33 UTC] +254768941873
+[07-Jan-2026 09:36:43 UTC] +254768941873
+[07-Jan-2026 09:36:53 UTC] +254768941873
+[07-Jan-2026 09:37:03 UTC] +254768941873
+[07-Jan-2026 09:37:13 UTC] +254768941873
+[07-Jan-2026 09:37:23 UTC] +254768941873
+[07-Jan-2026 09:37:33 UTC] +254768941873
+[07-Jan-2026 09:37:43 UTC] +254768941873
+[07-Jan-2026 09:37:53 UTC] +254768941873
+[07-Jan-2026 09:38:01 UTC] +254768941873
+[07-Jan-2026 09:38:02 UTC] +254768941873
+[07-Jan-2026 09:38:13 UTC] +254768941873
+[07-Jan-2026 09:38:13 UTC] +254768941873
+[07-Jan-2026 09:38:14 UTC] +254768941873
+[07-Jan-2026 09:38:24 UTC] +254768941873
+[07-Jan-2026 09:38:34 UTC] +254768941873
+[07-Jan-2026 09:38:44 UTC] +254768941873
+[07-Jan-2026 09:38:53 UTC] +254768941873
+[07-Jan-2026 09:38:55 UTC] +254768941873
+[07-Jan-2026 09:39:03 UTC] +254768941873
+[07-Jan-2026 09:39:05 UTC] +254768941873
+[07-Jan-2026 09:39:05 UTC] +254768941873
+[07-Jan-2026 09:39:05 UTC] +254768941873
+[07-Jan-2026 09:39:05 UTC] +254768941873
+[07-Jan-2026 09:39:07 UTC] +254768941873
+[07-Jan-2026 09:39:08 UTC] +254768941873
+[07-Jan-2026 09:39:08 UTC] +254768941873
+[07-Jan-2026 09:39:08 UTC] +254768941873
+[07-Jan-2026 09:39:08 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:19 UTC] +254768941873
+[07-Jan-2026 09:39:31 UTC] +254768941873
+[07-Jan-2026 09:39:31 UTC] +254768941873
+[07-Jan-2026 09:39:39 UTC] +254768941873
+[07-Jan-2026 09:39:40 UTC] +254768941873
+[07-Jan-2026 09:39:46 UTC] +254768941873
+[07-Jan-2026 09:39:51 UTC] +254768941873
+[07-Jan-2026 09:40:00 UTC] +254768941873
+[07-Jan-2026 09:40:04 UTC] +254768941873
+[07-Jan-2026 09:40:12 UTC] +254768941873
+[07-Jan-2026 09:40:21 UTC] +254768941873
+[07-Jan-2026 09:40:31 UTC] +254768941873
+[07-Jan-2026 09:40:40 UTC] +254768941873
+[07-Jan-2026 09:40:50 UTC] +254768941873
+[07-Jan-2026 09:41:01 UTC] +254768941873
+[07-Jan-2026 09:41:11 UTC] +254768941873
+[07-Jan-2026 09:41:21 UTC] +254768941873
+[07-Jan-2026 09:43:38 UTC] +254768941873
+[07-Jan-2026 09:43:41 UTC] +254768941873
+[07-Jan-2026 09:43:45 UTC] +254768941873
+[07-Jan-2026 09:43:47 UTC] +254768941873
+[07-Jan-2026 09:43:50 UTC] +254768941873
+[07-Jan-2026 09:44:00 UTC] +254768941873
+[07-Jan-2026 09:44:10 UTC] +254768941873
+[07-Jan-2026 09:44:14 UTC] +254768941873
+[07-Jan-2026 09:45:18 UTC] +254768941873
+[07-Jan-2026 09:46:18 UTC] +254768941873
+[07-Jan-2026 09:47:33 UTC] +254768941873
+[07-Jan-2026 09:48:34 UTC] +254768941873
+[07-Jan-2026 09:48:40 UTC] +254768941873
+[07-Jan-2026 09:48:42 UTC] +254768941873
+[07-Jan-2026 09:49:22 UTC] +254768941873
+[07-Jan-2026 09:54:39 UTC] +254768941873
+[07-Jan-2026 09:55:29 UTC] +254768941873
+[07-Jan-2026 09:55:33 UTC] +254768941873
+[07-Jan-2026 09:56:14 UTC] +254768941873
+[07-Jan-2026 09:56:17 UTC] +254768941873
+[07-Jan-2026 09:59:15 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-date-query.php on line 1081
+[07-Jan-2026 10:00:43 UTC] +254768941873
+[07-Jan-2026 10:23:34 UTC] +254768941873
+[07-Jan-2026 10:23:56 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\Requests\src\Iri.php on line 72
+[07-Jan-2026 10:25:35 UTC] +254768941873
+[07-Jan-2026 10:26:02 UTC] +254768941873
+[07-Jan-2026 10:50:48 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\class-wp-styles.php on line 497
+[07-Jan-2026 11:09:59 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\coalitiontest\wp-includes\functions.php on line 6910
