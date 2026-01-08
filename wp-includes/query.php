@@ -1005,6 +1005,7 @@ function the_post() {
 	$wp_query->the_post();
 }
 
+
 /*
  * Comments loop.
  */
@@ -1095,7 +1096,7 @@ function wp_old_slug_redirect() {
 		if ( ! $id ) {
 			return;
 		}
-
+		
 		$link = get_permalink( $id );
 
 		if ( get_query_var( 'paged' ) > 1 ) {

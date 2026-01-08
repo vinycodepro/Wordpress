@@ -1,5 +1,3 @@
-<?php echo '<!-- HEADER IS LOADING -->'; ?>
-
 <?php get_header(); ?>
 
 <main id="primary" class="site-main">
